@@ -27,16 +27,6 @@ A modern Customer Service Representative (CSR) portal built for AMP, a car wash 
 
 ---
 
-## 📸 Screenshots
-
-> Home Page  
-![Home Screenshot](./src/assets/carwash.png)
-
-> User Detail Page  
-![User Page Screenshot](./src/assets/user-detail-placeholder.png)
-
----
-
 ## 🛠️ Installation
 
 ```bash
@@ -44,3 +34,6 @@ git clone https://github.com/Bhumik6/amp-csr-portal.git
 cd amp-csr-portal
 npm install
 npm start
+
+## Vercel App Link 
+](https://amp-csr-portal-bhuj-git-main-bhumik6s-projects.vercel.app/)
