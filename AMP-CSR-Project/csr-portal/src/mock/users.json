@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@ampcarwash.com",
+      "phone": "123-456-7890",
+      "status": "Active",
+      "role": "Site Manager",
+      "location": "Atlanta, GA",
+      "purchases": [
+        { "date": "2024-12-01", "service": "Full Car Wash", "amount": 25.0 },
+        { "date": "2024-12-15", "service": "Interior Detailing", "amount": 40.0 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@ampcarwash.com",
+      "phone": "987-654-3210",
+      "status": "Active",
+      "role": "Technician",
+      "location": "Houston, TX",
+      "purchases": [
+        { "date": "2025-01-10", "service": "Express Wash", "amount": 15.0 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cindy Perez",
+      "email": "cindy@ampcarwash.com",
+      "phone": "555-987-1234",
+      "status": "Inactive",
+      "role": "Operations Lead",
+      "location": "Miami, FL",
+      "purchases": [
+        { "date": "2025-02-05", "service": "Deluxe Wash", "amount": 35.0 },
+        { "date": "2025-02-20", "service": "Interior Vacuum", "amount": 20.0 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "email": "david@ampcarwash.com",
+      "phone": "321-456-7890",
+      "status": "Active",
+      "role": "Customer Support",
+      "location": "Los Angeles, CA",
+      "purchases": [
+        { "date": "2025-03-10", "service": "Full Wash", "amount": 25.0 },
+        { "date": "2025-03-24", "service": "Tire Shine", "amount": 10.0 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Carlos Mendoza",
+      "email": "carlos@ampcarwash.com",
+      "phone": "321-654-9870",
+      "status": "Active",
+      "role": "Customer",
+      "location": "Phoenix, AZ",
+      "purchases": [
+        { "date": "2025-04-01", "service": "Deluxe Wash", "amount": 35.0 },
+        { "date": "2025-04-15", "service": "Engine Cleaning", "amount": 45.0 },
+        { "date": "2025-04-30", "service": "Tire Shine", "amount": 10.0 }
+      ]
+    }
+  ]
+  
